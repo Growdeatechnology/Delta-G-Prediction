@@ -30,3 +30,4 @@ The plot between predicted values and actual values are represented in the follo
 ![Screenshot from 2023-08-30 18-28-06](https://github.com/Growdeatechnology/Delta-G-Prediction/assets/72397529/dacc87a2-d28e-4ae7-94bd-c3eaceab77ad)
 
 The model is easy to use as only raw sequence or file with raw sequences is required. The predicted value is in the unit kcal/mol and easy to interpret. 
+![Screenshot 2023-08-30 184647(1)](https://github.com/Growdeatechnology/Delta-G-Prediction/assets/72397529/522f76f6-a946-4767-a6d2-5c46c1b59f18)
