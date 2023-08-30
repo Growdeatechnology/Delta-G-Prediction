@@ -7,6 +7,7 @@ Dataset
 This machine learning based tool is trained on a robust dataset with an acceptable distribution of datapoints. The dataset was taken from ProTherm database and curated further to obtain clean and significant data. The frequency distribution of the finalized dataset was calculated and is represented in fig. 1. This dataset was further divided into training, test and validation dataset to train and test the performance of the prepared ML model.
 
 ![Screenshot from 2023-08-30 10-29-08](https://github.com/Growdeatechnology/Delta-G-Prediction/assets/72397529/851978c9-09e9-45b2-9dbd-9346248b3800)
+
 Fig. 1: Frequency distribution of curated dataset 
 
 Encoder and Model 
@@ -16,6 +17,7 @@ The ML model takes protein sequence as input to predict ΔG, but before utilizat
 A total of three models, Random Forest (RF), Support Vector Regression (SVR) and Convolutional Neural Network (CNN) were used. Threefold validation was performed for each model and their performance was measured as r2 (coefficient of determination) and MSE (mean squared error). These measured scores are represented in table 1. Based on the measured performance score, the best performing model was selected and used in the final model for ΔG prediction. 
 
 Table 1: Measured performance score for three models. 
+![Screenshot 2023-08-30 184647(1)](https://github.com/Growdeatechnology/Delta-G-Prediction/assets/72397529/522f76f6-a946-4767-a6d2-5c46c1b59f18)
 
 Model 
 
@@ -30,4 +32,3 @@ The plot between predicted values and actual values are represented in the follo
 ![Screenshot from 2023-08-30 18-28-06](https://github.com/Growdeatechnology/Delta-G-Prediction/assets/72397529/dacc87a2-d28e-4ae7-94bd-c3eaceab77ad)
 
 The model is easy to use as only raw sequence or file with raw sequences is required. The predicted value is in the unit kcal/mol and easy to interpret. 
-![Screenshot 2023-08-30 184647(1)](https://github.com/Growdeatechnology/Delta-G-Prediction/assets/72397529/522f76f6-a946-4767-a6d2-5c46c1b59f18)
