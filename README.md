@@ -29,6 +29,7 @@ R2 = 0.78 and MSE = 3.278.
 
 The plot between predicted values and actual values are represented in the following figure.
 
-![Screenshot from 2023-08-30 18-28-06](https://github.com/Growdeatechnology/Delta-G-Prediction/assets/72397529/dacc87a2-d28e-4ae7-94bd-c3eaceab77ad)
+![Screenshot from 2023-09-06 13-15-04](https://github.com/Growdeatechnology/Delta-G-Prediction/assets/72397529/20bfb8c8-f726-48f8-b9e2-104845928fc6)
+
 
 The model is easy to use as only raw sequence or file with raw sequences is required. The predicted value is in the unit kcal/mol and easy to interpret. 
