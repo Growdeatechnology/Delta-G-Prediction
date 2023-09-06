@@ -10,6 +10,9 @@ This machine learning based tool is trained on a robust dataset with an acceptab
 
 Fig. 1: Frequency distribution of curated dataset 
 
+![image](https://github.com/Growdeatechnology/Delta-G-Prediction/assets/72397529/f2472964-518b-424a-a879-327fa1a3b23d)
+
+Fig. 2: Plotting of Delta_G values on length of sequence length 
 Encoder and Model 
 
 The ML model takes protein sequence as input to predict ΔG, but before utilization of sequences, it is converted/encoded into a format comprehensible by machine. For encoding of protein sequences One Hot Encoding was performed which converts protein sequence into a matrix of 0s and 1s based on the amino acids. 
