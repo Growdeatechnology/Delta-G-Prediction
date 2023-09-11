@@ -12,7 +12,7 @@ Fig. 1: Frequency distribution of curated dataset
 
 ![image](https://github.com/Growdeatechnology/Delta-G-Prediction/assets/72397529/f2472964-518b-424a-a879-327fa1a3b23d)
 
-Fig. 2: Plotting of &Delta;G values on length of sequence length
+Fig. 2: Plotting of Uppercase Alpha: &Alpha;G values on length of sequence length
 
 ## Encoder and Model 
 
